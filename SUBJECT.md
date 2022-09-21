@@ -40,10 +40,10 @@
 
 [X] When typing `!d6` the bot should answer with a value between 1 and 6
 
-[ ] When typing "Salut tout le monde" (without the command sign), the bot should say "Salut tout seul" and ping the original author of the message 
+[X] When typing "Salut tout le monde" (without the command sign), the bot should say "Salut tout seul" and ping the original author of the message 
 
 ### Administration
-[ ] When typing `!admin <A member nickname>`, your bot should create an Admin role (if it doesn't exists) on your server, allowing them to manage channels, kick and ban members, and give it to the member in parameter
+[X] When typing `!admin <A member nickname>`, your bot should create an Admin role (if it doesn't exists) on your server, allowing them to manage channels, kick and ban members, and give it to the member in parameter
 
 [ ] When typing `!ban <A member nickname>`, your bot should ban that member from the server (**Test with caution**)
 
